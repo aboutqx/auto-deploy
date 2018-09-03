@@ -8,6 +8,7 @@ auto deploy files via gulp plugin
 * zip a folder and upload
 
 ## usage
+* clone this,and run `npm i`,also run `npm i gulp-cli -g`
 
 * git push your files
 
